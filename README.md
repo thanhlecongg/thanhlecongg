@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My website: https://thanhlecongg.github.io/
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=thanhlecongg&show_icons=true&locale=en" alt="thanhlecongg">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlecongg&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css,java,c,matlab,scss,less">
+</p>
+
 <!--
 **thanhlecongg/thanhlecongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
