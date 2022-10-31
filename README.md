@@ -1,23 +1,12 @@
-### Hi there 👋
+### 👋 Hi, I’m Thanh Le-Cong; I'm a research engineer at Singapore Management University!
 
-My website: https://thanhlecongg.github.io/
+- 👀 I’m interested in Software Engineering with a specific focus on Automated Software Debugging.
+- 🌱 I’m currently working on Program Analysis and Repair!
+- 📫 How to reach me: tlecong@smu.edu.sg or thanhcls1316@gmail.com
+- 📫 My google scholar: [https://scholar.google.com/citations?user=0TJ2SI8AAAAJ&hl=en](https://scholar.google.com/citations?user=iaQgZHYAAAAJ&hl=en)
+- 📫 My homepage: [https://thanhlecongg.github.io](https://thanhlecongg.github.io)
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=thanhlecongg&show_icons=true&locale=en" alt="thanhlecongg">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlecongg&layout=compact&hide_border=true&langs_count=10&hide=javascript">
-</p>
-
-<!--
-**thanhlecongg/thanhlecongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+thanhlecongg/thanhlecongg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
