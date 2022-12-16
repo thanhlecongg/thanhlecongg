@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Thanh Le-Cong; I'm an incoming phD Student at University of Melbourne!
+### 👋 Hi, I’m Thanh Le-Cong; I'm a PhD Student at University of Melbourne!
 
 - 👀 I’m interested in Software Engineering with a specific focus on Automated Software Debugging.
 - 🌱 I’m currently working on Program Analysis and Repair!
