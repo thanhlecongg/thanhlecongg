@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Thanh Le-Cong; I'm a PhD Student at University of Melbourne!
 
-- 👀 I’m interested in Software Engineering with a specific focus on Software Debugging.
+- 👀 I’m interested in Formal Verification and Software Engineering with a specific focus on Automated Software Debugging.
 - 🌱 I’m currently working on Program Analysis and Repair!
 - 📫 How to reach me: congthanh.le@student.unimelb.edu.au or thanhcls1316@gmail.com
 - 📫 My google scholar: [https://scholar.google.com/citations?user=0TJ2SI8AAAAJ&hl=en](https://scholar.google.com/citations?user=iaQgZHYAAAAJ&hl=en)
